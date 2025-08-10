@@ -1,0 +1,6 @@
+name: ItemSkillBinder
+version: 1.0
+main: com.example.itemskillbinder.Main
+api-version: 1.19
+author: ChatGPT
+description: Bind MythicMobs skills to items
